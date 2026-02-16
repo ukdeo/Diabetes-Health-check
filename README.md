@@ -113,7 +113,7 @@ Make sure you have the `diabetes.csv` file in the same folder as the app. You ca
 3. Run the following command:
 
 ```bash
-streamlit run diabetes_app_improved.py
+ python -m streamlit run diabetes_app.py
 ```
 
 4. Your browser will automatically open to `http://localhost:8501`
